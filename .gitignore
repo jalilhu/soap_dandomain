@@ -1,0 +1,25 @@
+# Ignore environment files
+.env
+
+# Ignore SQLite database
+products.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# VS Code settings (optional)
+.vscode/
+
+# Mac and Windows OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
